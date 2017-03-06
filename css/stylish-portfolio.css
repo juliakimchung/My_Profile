@@ -172,6 +172,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
+
 }
 
 .service-item {
@@ -256,4 +257,8 @@ footer {
   position: fixed;
   bottom: 5px;
   right: 5px;
+}
+
+#services{
+    background: #00CCBA;
 }

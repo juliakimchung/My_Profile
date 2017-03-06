@@ -175,7 +175,8 @@ hr.small {
 }
 
 .service-item {
-    margin-bottom: 30px;
+    margin-bottom: 60px;
+
 }
 
 /* Callout */
@@ -206,7 +207,15 @@ hr.small {
     margin: 0 auto;
 }
 
+.img-portfolio1{
+    width: 500px;
+    height:258px;
+}
+
 .img-portfolio:hover {
+    opacity: 0.8;
+}
+.img-portfolio1:hover {
     opacity: 0.8;
 }
 
